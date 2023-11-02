@@ -1,13 +1,13 @@
 {
-    "name": "inacho/php-credit-card-validator",
+    "name": "irabbi360/php-credit-card-validator",
     "type": "library",
     "description": "Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm. Also validates the CVC and the expiration date",
     "keywords": ["creditcard", "creditcards", "debit", "credit", "card", "cards", "validator", "cvc", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ignacio de Tomás",
-            "email": "nacho@inacho.es"
+            "name": "Fazle Rabbi",
+            "email": "fazrabbi010@gmail.com"
         }
     ],
     "require": {
