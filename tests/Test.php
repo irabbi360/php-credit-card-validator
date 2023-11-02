@@ -1,6 +1,6 @@
 <?php
 
-use Inacho\CreditCard;
+use Irabbi360\CreditCard;
 
 class Test extends PHPUnit_Framework_TestCase
 {
