@@ -8,7 +8,7 @@
  * @copyright 2014 Ignacio de Tomás (http://inacho.es)
  */
 
-namespace Inacho;
+namespace Irabbi360;
 
 class CreditCard
 {
