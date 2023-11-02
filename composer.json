@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Inacho\\": "src/"
+            "Irabbi360\\": "src/"
         }
     }
 }
