@@ -5,8 +5,8 @@
 [![Total Downloads](https://poser.pugx.org/irabbi360/php-credit-card-validator/downloads)](https://packagist.org/packages/irabbi360/php-credit-card-validator)
 [![Daily Downloads](https://poser.pugx.org/irabbi360/php-credit-card-validator/d/daily)](https://packagist.org/packages/irabbi360/php-credit-card-validator)
 
-Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm.
-Also validates the CVC and the expiration date.
+Validates popular debit and credit card numbers against regular expressions and the Luhn algorithm.
+It also validates the CVC and the expiration date.
 
 ## Installation
 
