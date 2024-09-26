@@ -10,9 +10,13 @@ It also validates the CVC and the expiration date.
 
 ## Installation
 
+```bash
+composer require irabbi360/php-credit-card-validator
+```
+
 Require the package in `composer.json`
 
-```json
+```bash
 "require": {
     "irabbi360/php-credit-card-validator": "1.*"
 },
